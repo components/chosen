@@ -16,8 +16,5 @@
 				"chosen-sprite.png"
 			]
     	}
-    },
-	"require": {
-		"components/jquery": "*"
-	}
+    }
 }
