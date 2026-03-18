@@ -1,6 +1,6 @@
 {
-  "name": "chosen-js",
-  "version": "1.8.2",
+  "name": "@components/chosen",
+  "version": "1.8.7",
   "description": "Chosen is a JavaScript plugin that makes select boxes user-friendly. It is currently available in both jQuery and Prototype flavors.",
   "keywords": [
     "select",
@@ -45,6 +45,6 @@
   "main": "chosen.jquery.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/harvesthq/chosen.git"
+    "url": "https://github.com/components/chosen.git"
   }
 }

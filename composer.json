@@ -5,6 +5,10 @@
 	"license": "MIT",
 	"extra": {
 		"component": {
+			"name": "chosen",
+			"scripts": [
+				"chosen.jquery.js"
+			],
 			"files": [
 				"chosen.jquery.js",
 				"chosen.jquery.min.js",
